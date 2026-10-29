@@ -1,0 +1,10 @@
+{
+  "name": "Güç Planım",
+  "short_name": "Güç Planım",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#101412",
+  "theme_color": "#101412",
+  "lang": "tr",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
